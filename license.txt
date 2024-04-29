@@ -9,16 +9,19 @@
                       |_|                                  
       
                                 presents
-      
-      
-       __  __           _   _______                   _       _       
-      |  \/  |         | | |__   __|                 | |     | |      
-      | \  / | ___   __| |    | | ___ _ __ ___  _ __ | | __ _| |_ ___ 
-      | |\/| |/ _ \ / _` |    | |/ _ \ '_ ` _ \| '_ \| |/ _` | __/ _ \
-      | |  | | (_) | (_| |    | |  __/ | | | | | |_) | | (_| | ||  __/
-      |_|  |_|\___/ \__,_|    |_|\___|_| |_| |_| .__/|_|\__,_|\__\___|
-                                               | |                    
-                                               |_|                    
+
+
+
+░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓███████▓▒░ ░▒▓███████▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓████████▓▒░▒▓████████▓▒░▒▓█▓▒░      ░▒▓███████▓▒░░▒▓██████▓▒░ ░▒▓███████▓▒░ ░▒▓██████▓▒░  
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░ 
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░  
+(the opera gx mod :D )
+                                                                                             
+                                                                                             
       
       
  
@@ -30,17 +33,14 @@
                         |_|                
 ...............................................................................
 
-Hey there, welcome to the mod creation template based on the Purple Haze theme
-from  Opera GX. This  template  includes the original keyboard sounds, browser
-sounds, and music from Opera GX, as well as light and dark wallpapers that are
-based on the original Purple Haze wallpapers but have added information at the
-bottom to set them apart. There is also an example of animated wallpaper.
+Woah, you found license.tx- sorry I will start my description
 
-We've also included a simple web  modding  CSS that changes the text color and
-background  color on web pages in the opera.com domain. This will show you how
-to read colors from the browser and apply them to web pages. And lastly, we've
-included  basic shaders  that  demonstrate  how  to  use  animated and  static
-versions. Have fun creating your mods!
+Hey there, this is a Opera GX mod based on the Game "Hackers" developed by
+Tricker Arts. I thought this was a cool idea since the only thing I can find
+searching up "Hackers" was not ones related to the game
+
+please note the mod has NOTHING to do with tricker arts and I made it as a 
+fan-made opera gx mod.
                               
  _____           _ _ _       
 |     |___ ___ _| |_| |_ ___ 
@@ -48,7 +48,7 @@ versions. Have fun creating your mods!
 |_____|_| |___|___|_|_| |___|
 ...............................................................................
 
-CREDITS GO HERE
+Maybe my mom, whoever taught me how to use Github
                                                               
  __    _                         
 |  |  |_|___ ___ ___ ___ ___ ___ 
@@ -56,7 +56,7 @@ CREDITS GO HERE
 |_____|_|___|___|_|_|___|___|___|
 ...............................................................................
                
-LICENCES GO HERE
+Blah Blah Blah Licences?
                        
  _____       _         
 |  |  |_ _ _| |___ ___ 
@@ -64,7 +64,7 @@ LICENCES GO HERE
 |__|__|___|___|___|___|
 ...............................................................................
                        
-KUDOS GO HERE
+My friends on discord, myself
 
  _____ _       ___ ___ 
 |   __| |_ _ _|  _|  _|
@@ -72,5 +72,5 @@ KUDOS GO HERE
 |_____|_| |___|_| |_|  
 ...............................................................................
                        
-OTHER STUFF GOES HERE
+print("stuff") :D
 
