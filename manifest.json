@@ -18,7 +18,8 @@
         {
             "background_music":
             [
-                "music/music1.mp3"
+                "music/music1.mp3",
+                "music/music2.mp3",
             ],
             "keyboard_sounds":
             {
