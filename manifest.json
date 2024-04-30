@@ -46,61 +46,6 @@
                     "sounds/backspace.wav"
                 ]
             },
-            "browser_sounds":
-            {
-                "SWITCH_TOGGLE":
-                [
-                    ""
-                ],
-                "TAB_CLOSE":
-                [
-                    ""
-                ],
-                "TAB_INSERT":
-                [
-                    ""
-                ],
-                "HOVER":
-                [
-                    ""
-                ],
-                "HOVER_UP":
-                [
-                    ""
-                ],
-                "CLICK":
-                [
-                    ""
-                ],
-                "LIMITER_ON":
-                [
-                    ""
-                ],
-                "LIMITER_OFF":
-                [
-                    ""
-                ],
-                "IMPORTANT_CLICK":
-                [
-                    ""
-                ],
-                "FEATURE_SWITCH_ON":
-                [
-                    ""
-                ],
-                "FEATURE_SWITCH_OFF":
-                [
-                    ""
-                ],
-                "LEVEL_UPGRADE":
-                [
-                    ""
-                ],
-                "TAB_SLASH":
-                [
-                    ""
-                ]
-            },
             "page_styles":
             [
                 {
