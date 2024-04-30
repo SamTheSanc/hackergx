@@ -1,6 +1,7 @@
 {
     "name": "Hackers",
     "description": "an Opera GX mod based on the Tricker Arts game",
+    "version": "0.1",
     "developer":
     {
         "name": "samthesanc"
