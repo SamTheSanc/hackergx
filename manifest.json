@@ -51,35 +51,35 @@
             {
                 "SWITCH_TOGGLE":
                 [
-                    "sounds/FeatureSwitchON.mp3"
+                    ""
                 ],
                 "TAB_CLOSE":
                 [
-                    "sounds/CloseTab.mp3"
+                    ""
                 ],
                 "TAB_INSERT":
                 [
-                    "sounds/NewTab.mp3"
+                    ""
                 ],
                 "HOVER":
                 [
-                    "sounds/Hover.mp3"
+                    ""
                 ],
                 "HOVER_UP":
                 [
-                    "sounds/Hover.mp3"
+                    ""
                 ],
                 "CLICK":
                 [
-                    "sounds/spacebar.wav"
+                    ""
                 ],
                 "LIMITER_ON":
                 [
-                    "sounds/FeatureSwitchON.mp3"
+                    ""
                 ],
                 "LIMITER_OFF":
                 [
-                    "sounds/FeatureSwitchOFF.mp3"
+                    ""
                 ],
                 "IMPORTANT_CLICK":
                 [
@@ -87,11 +87,11 @@
                 ],
                 "FEATURE_SWITCH_ON":
                 [
-                    "sounds/FeatureSwitchON.mp3"
+                    ""
                 ],
                 "FEATURE_SWITCH_OFF":
                 [
-                    "sounds/FeatureSwitchOFF.mp3"
+                    ""
                 ],
                 "LEVEL_UPGRADE":
                 [
