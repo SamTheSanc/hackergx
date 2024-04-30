@@ -49,7 +49,8 @@ fan-made opera gx mod.
 |_____|_| |___|___|_|_| |___|
 ...............................................................................
 
-Shoutout to Trickster Arts for making the Game that this mod is themed after
+All credits and music goes to Trickster Arts, for developing the game
+that the theme is based on
                                                               
  __    _                         
 |  |  |_|___ ___ ___ ___ ___ ___ 
@@ -73,5 +74,5 @@ My friends on discord, myself
 |_____|_| |___|_| |_|  
 ...............................................................................
                        
-print("stuff") :D
+Too lazy to find music so some stuff are taken from the Opera GX "Cyberdeck" mod..
 
