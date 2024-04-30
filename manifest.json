@@ -17,85 +17,89 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/layer1.mp3",
+                "music/layer2.mp3",
+                "music/layer3.mp3"
             ],
-            "browser_sounds":
-            {
-                "CLICK":
-                [
-                    "sound/click.mp3"
-                ],
-                "FEATURE_SWITCH_OFF":
-                [
-                    "sound/feature_switch_off.mp3"
-                ],
-                "FEATURE_SWITCH_ON":
-                [
-                    "sound/feature_switch_on.mp3"
-                ],
-                "HOVER":
-                [
-                    "sound/hover.mp3"
-                ],
-                "HOVER_UP":
-                [
-                    "sound/hover.mp3"
-                ],
-                "IMPORTANT_CLICK":
-                [
-                    "sound/important_click.mp3"
-                ],
-                "LEVEL_UPGRADE":
-                [
-                    "sound/level_upgrade.mp3"
-                ],
-                "LIMITER_OFF":
-                [
-                    "sound/limiter_off.mp3"
-                ],
-                "LIMITER_ON":
-                [
-                    "sound/limiter_on.mp3"
-                ],
-                "SWITCH_TOGGLE":
-                [
-                    "sound/switch.mp3"
-                ],
-                "TAB_CLOSE":
-                [
-                    "sound/close_tab.mp3"
-                ],
-                "TAB_INSERT":
-                [
-                    "sound/new_tab.mp3"
-                ],
-                "TAB_SLASH":
-                [
-                    "sound/tab_slash.mp3"
-                ]
-            },
             "keyboard_sounds":
             {
-                "TYPING_BACKSPACE":
+                "TYPING_LETTER":
                 [
-                    "keyboard/backspace.wav"
+                    "sounds/keyboard1.wav",
+                    "sounds/keyboard8.wav",
+                    "sounds/keyboard2.wav",
+                    "sounds/keyboard7.wav",
+                    "sounds/keyboard3.wav",
+                    "sounds/keyboard6.wav",
+                    "sounds/keyboard4.wav",
+                    "sounds/keyboard5.wav"
                 ],
                 "TYPING_ENTER":
                 [
-                    "keyboard/enter.wav"
-                ],
-                "TYPING_LETTER":
-                [
-                    "keyboard/letter_1.wav",
-                    "keyboard/letter_2.wav",
-                    "keyboard/letter_3.wav"
+                    "sounds/spacebar.wav"
                 ],
                 "TYPING_SPACE":
                 [
-                    "keyboard/space.wav"
+                    "sounds/spacebar.wav"
+                ],
+                "TYPING_BACKSPACE":
+                [
+                    "sounds/backspace.wav"
+                ]
+            },
+            "browser_sounds":
+            {
+                "SWITCH_TOGGLE":
+                [
+                    "sounds/FeatureSwitchON.mp3"
+                ],
+                "TAB_CLOSE":
+                [
+                    "sounds/CloseTab.mp3"
+                ],
+                "TAB_INSERT":
+                [
+                    "sounds/NewTab.mp3"
+                ],
+                "HOVER":
+                [
+                    "sounds/Hover.mp3"
+                ],
+                "HOVER_UP":
+                [
+                    "sounds/Hover.mp3"
+                ],
+                "CLICK":
+                [
+                    "sounds/spacebar.wav"
+                ],
+                "LIMITER_ON":
+                [
+                    "sounds/FeatureSwitchON.mp3"
+                ],
+                "LIMITER_OFF":
+                [
+                    "sounds/FeatureSwitchOFF.mp3"
+                ],
+                "IMPORTANT_CLICK":
+                [
+                    ""
+                ],
+                "FEATURE_SWITCH_ON":
+                [
+                    "sounds/FeatureSwitchON.mp3"
+                ],
+                "FEATURE_SWITCH_OFF":
+                [
+                    "sounds/FeatureSwitchOFF.mp3"
+                ],
+                "LEVEL_UPGRADE":
+                [
+                    ""
+                ],
+                "TAB_SLASH":
+                [
+                    ""
                 ]
             },
             "page_styles":
